@@ -6,13 +6,13 @@ widget: starter.blog.intro
 headless: true
 
 # Order that this section will appear in.
-weight: 20
+weight: 10
 
 title: ✏️ Mog's Blog
 #subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
 
 design:
   background:
-    color: '#090a0b'
+    color: '#FE642E'
     text_color_light: true
 ---
