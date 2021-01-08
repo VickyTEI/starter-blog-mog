@@ -16,11 +16,13 @@ organizations:
 bio: My research interests include AI and the importance of territory in the domestic garden setting.
 
 #interests:
-#- Duvets & quiet sleeping spots
-#- Food
-#- Modellimg assignments
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Duvets & quiet sleeping spots
+- Food
+- Territory of the back garden
+- Modellimg assignments
+- Computational Linguistics
+- Information Retrieval
 
 #education:
 #  courses:
