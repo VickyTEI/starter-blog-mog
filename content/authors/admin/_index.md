@@ -17,9 +17,9 @@ bio: My research interests include AI and the importance of territory in the dom
 
 #interests:
 interests:
-- Duvets & quiet sleeping spots
+- Quiet sleeping spots
 - Food
-- Territory of the back garden
+- The garden
 - Modellimg assignments
 - Computational Linguistics
 - Information Retrieval
