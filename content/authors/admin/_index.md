@@ -1,23 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mog
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Chief sleeper of the House
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Home
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI and the importance of territory in the domestic garden setting.
 
 #interests:
-#- Artificial Intelligence
+#- Duvets & quiet sleeping spots
+#- Food
+#- Modellimg assignments
 #- Computational Linguistics
 #- Information Retrieval
 
@@ -25,13 +26,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #  courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
-#    year: 2012
+#    year: 2020
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
-#    year: 2009
+#    year: 2014
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
-#    year: 2008
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,6 +58,6 @@ social:
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mog is dreaming of being a professor of artificial intelligence at the Stanford AI Lab. His research interests include food, duvets and quiet sleeping places and modelling assignments. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He current work covers the issues of territory on the domestic garden.
