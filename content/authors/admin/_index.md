@@ -20,7 +20,7 @@ interests:
 - Quiet sleeping spots
 - Food
 - The garden
-- Modellimg assignments
+- Modelling assignments
 - Computational Linguistics
 - Information Retrieval
 
