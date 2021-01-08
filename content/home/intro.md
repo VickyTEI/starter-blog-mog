@@ -13,6 +13,6 @@ title:🐈 Mog's Blog 🐈
 
 design:
   background:
-    color: '66CDAA'
+    color: 'B0E0E6'
     text_color_light: true
 ---
