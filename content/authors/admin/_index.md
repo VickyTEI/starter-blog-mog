@@ -6,11 +6,11 @@ title: Mog
 superuser: true
 
 # Role/position
-role: Chief sleeper of the House
+role: Chief Sleeper of the House
 
 # Organizations/Affiliations
 organizations:
-- name: Home
+- name: Home Worker
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include AI and the importance of territory in the domestic garden setting.
@@ -58,6 +58,6 @@ social:
 #email: ""
 ---
 
-Mog is dreaming of being a professor of artificial intelligence at the Stanford AI Lab. His research interests include the back garden, food, duvets and quiet sleeping places. He's always avialable for modelling assignments. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mog is dreaming of being a professor of artificial intelligence at the Stanford AI Lab. His research interests include the back garden, food, duvets and quiet sleeping places. He is often available for modelling assignments. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 His current work covers the issues of territory in the domestic garden.
