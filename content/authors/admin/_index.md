@@ -58,6 +58,6 @@ social:
 #email: ""
 ---
 
-Mog is dreaming of being a professor of artificial intelligence at the Stanford AI Lab. His research interests include food, duvets and quiet sleeping places and modelling assignments. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mog is dreaming of being a professor of artificial intelligence at the Stanford AI Lab. His research interests include the back garden, food, duvets and quiet sleeping places. He's always avialable for modelling assignments. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-He current work covers the issues of territory on the domestic garden.
+His current work covers the issues of territory in the domestic garden.
